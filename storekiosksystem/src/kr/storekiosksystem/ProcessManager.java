@@ -253,7 +253,8 @@ public class ProcessManager {
 		System.out.println("4.장바구니비우기");
 		System.out.println("5.결제하기(매장&포장)");
 		System.out.println("6.관리자모드");
-		System.out.println("7.종료");
+		System.out.println("7.로그아웃");
+		System.out.println("8.키오스크종료");
 		System.out.println("―――――――――――――――――――――――――");
 	}
 

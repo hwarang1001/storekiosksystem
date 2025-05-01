@@ -180,7 +180,15 @@ public class StoreKioskSystemMain {
 					scan.nextLine();
 					break; // 로그인되지 않았다면 기능 진행하지 않음
 				}
-			case 7:// 프로그램종료
+			case 7:// 로그아웃
+				System.out.printf("%s님 로그아웃되었습니다.\n", currentUser.getUserName());
+				System.out.println("continue>>");
+				scan.nextLine();
+				loginSuccess = false;
+				loginFlag = false;
+				currentUser = null;
+				break;
+			case 8:// 프로그램종료
 				stopFlag = true;
 				break;
 			}// end of switch
