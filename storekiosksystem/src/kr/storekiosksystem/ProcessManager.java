@@ -406,10 +406,10 @@ public class ProcessManager {
 			} catch (Exception e) {
 				isInputCheck = false;
 			}
-			if (isInputCheck == true && (1 <= no && no <= 7)) {
+			if (isInputCheck == true && (1 <= no && no <= 8)) {
 				break;
 			}
-			System.out.println("번호선택오류발생 다시입력요청(1~7)");
+			System.out.println("번호선택오류발생 다시입력요청(1~8)");
 		} while (true);
 		return no;
 	}
