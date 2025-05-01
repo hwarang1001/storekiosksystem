@@ -18,7 +18,7 @@ Java로 만든 음식점 키오스크 시스템
 - `개발Tool: Eclipse`
 - `형상관리: Git`
 
-## ▶ 사용자 페이지 요구사항
+## ▶ 사용자 페이지
 <img width="314" alt="Image" src="https://github.com/user-attachments/assets/96fbe680-2e9e-44f5-9283-a1cdc5f6d47e" />
 
 #### 1. 메인페이지 
@@ -38,7 +38,7 @@ Java로 만든 음식점 키오스크 시스템
 - 관리자모드: 관리자 페이지로 들어가는 기능 (관리자 아이디만 가능)
 - 로그아웃: 현재 로그인된 사용자를 로그아웃 시키는 기능
   
-## ▶ 관리자 페이지 요구사항
+## ▶ 관리자 페이지
 <img width="379" alt="Image" src="https://github.com/user-attachments/assets/316ae261-e1c6-4824-afe6-a13f0a33ecae" />
 
 #### 1. 메인페이지 
