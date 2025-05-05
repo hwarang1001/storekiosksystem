@@ -3,7 +3,8 @@
 Java로 만든 음식점 키오스크 시스템
 
 ## 🖥️ 프로젝트 소개
-음식점 키오스크를 참고하여 만든 음식점 키오스크 시스템입니다.
+음식점 키오스크를 참고하여 만든 음식점 키오스크 시스템이고 
+데이터베이스가 아닌 파일로 관리하였습니다.
 <br>
 
 ## 🕰️ 개발 기간
@@ -18,6 +19,8 @@ Java로 만든 음식점 키오스크 시스템
 - `개발Tool: Eclipse`
 - `형상관리: Git`
 
+##  ▶️실행 영상
+ - https://www.youtube.com/watch?v=THwSHZkwifs
 ## ▶ 사용자 페이지
 <img width="314" alt="Image" src="https://github.com/user-attachments/assets/96fbe680-2e9e-44f5-9283-a1cdc5f6d47e" />
 
